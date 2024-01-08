@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 # summary: "AWS Lambda function URL is a convenient way to expose your Lambda function to the public. Here, it is important to protect your function from unauthorized access. ..."
 # description: "AWS Lambda function URL is a convenient way to expose your Lambda function to the public. Here, it is important to protect your function from unauthorized access. ..."
 canonicalURL: "https://canonical.url/to/page"
