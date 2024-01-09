@@ -59,8 +59,8 @@ To protect your Lambda function URL with CloudFront and Lambda@Edge, you will ne
 
 Before creating a CloudFront distribution, you may first need to create a Lambda function, if it was not before, containing business code exposed to the frontend and configure a function URL with Auth type **AWS_IAM**. Please follow the mentioned links on how you can do this:
 
-- [Create a Lambda function with the console](https://medium.com/r/?url=https%3A%2F%2Fdocs.aws.amazon.com%2Flambda%2Flatest%2Fdg%2Fgetting-started.html%23getting-started-create-function)
-- [Creating a function URL (console)](https://medium.com/r/?url=https%3A%2F%2Fdocs.aws.amazon.com%2Flambda%2Flatest%2Fdg%2Furls-configuration.html%23create-url-console)
+- [Create a Lambda function with the console](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html#getting-started-create-function)
+- [Creating a function URL (console)](https://docs.aws.amazon.com/lambda/latest/dg/urls-configuration.html#create-url-console)
 
 To create a CloudFront distribution, follow the link https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/distribution-web-creating-console.html or this is how a few options in web distribution behavior will look like:
 
