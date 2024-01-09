@@ -13,6 +13,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["blog"]
+Copyright: "© 2024 </span> <a href='/'>Mudassir Hafeez</a> · <a href='/index.xml' title='Really Simple Syndication Feed'>RSS Feed</a>"
 # googleAnalytics: UA-123-45
 
 minify:
